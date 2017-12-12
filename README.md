@@ -11,9 +11,10 @@ telp varchar(20),
 alamat varchar(150));
 
 - insert data 
-insert into mahasiswa values('0001','Hamid','hamid@gmail.com','9011222','Bekasi');
-insert into mahasiswa values('0002','daud','daud@gmail.com','1011222','Bogor');
-insert into mahasiswa values('0003','Shakira','shakira@gmail.com','111222','Bekasi');
+
+>> insert into mahasiswa values('0001','Hamid','hamid@gmail.com','9011222','Bekasi');
+>> insert into mahasiswa values('0002','daud','daud@gmail.com','1011222','Bogor');
+>> insert into mahasiswa values('0003','Shakira','shakira@gmail.com','111222','Bekasi');
 
 Penjelasan :
 Pengembangan dari CRUD SESSION, pada bagian ini proses CRUD berada hanya dalam satu file yaitu index.php. 
