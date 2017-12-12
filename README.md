@@ -1,6 +1,8 @@
 # crud-index
 Prepared :
 - Buat database 
+  create database dbtest;
+  
 - Buat tabel mahasiswa :
 
 create table mahasiswa(
